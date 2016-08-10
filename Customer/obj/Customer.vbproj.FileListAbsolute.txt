@@ -1,0 +1,14 @@
+D:\WMS_Source_Code\Bed\ms_Customer\Customer\Customer\bin\Debug\Customer.exe
+D:\WMS_Source_Code\Bed\ms_Customer\Customer\Customer\bin\Debug\Customer.pdb
+D:\WMS_Source_Code\Bed\ms_Customer\Customer\Customer\bin\Debug\Customer.xml
+D:\WMS_Source_Code\Bed\ms_Customer\Customer\Customer\bin\Debug\WMS_STD_Formula.dll
+D:\WMS_Source_Code\Bed\ms_Customer\Customer\Customer\bin\Debug\WMS_STD_Formula.pdb
+D:\WMS_Source_Code\Bed\ms_Customer\Customer\Customer\bin\Debug\WMS_STD_Formula.xml
+D:\WMS_Source_Code\Bed\ms_Customer\Customer\Customer\obj\Debug\ResolveAssemblyReference.cache
+D:\WMS_Source_Code\Bed\ms_Customer\Customer\Customer\obj\Debug\Customer.Resources.resources
+D:\WMS_Source_Code\Bed\ms_Customer\Customer\Customer\obj\Debug\Customer.vbproj.GenerateResource.Cache
+D:\WMS_Source_Code\Bed\ms_Customer\Customer\Customer\obj\Debug\Customer.exe
+D:\WMS_Source_Code\Bed\ms_Customer\Customer\Customer\obj\Debug\Customer.xml
+D:\WMS_Source_Code\Bed\ms_Customer\Customer\Customer\obj\Debug\Customer.pdb
+D:\WMS_Source_Code\Bed\ms_Customer\Customer\Customer\obj\Debug\Customer.frmAddCustomer.resources
+D:\WMS_Source_Code\Bed\ms_Customer\Customer\Customer\obj\Debug\Customer.FormResizeEvent.resources
